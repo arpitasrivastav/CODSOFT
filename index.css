@@ -1,0 +1,44 @@
+body {
+   background-size: 100%;
+    background-color: rgb(66, 64, 64);
+    
+}
+.heading{
+    text-align:center;
+    color: white;
+
+}
+
+
+.button{
+    height: 40px;
+    width: 40px;
+    margin: 3px 3px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(204, 93, 14);
+    
+
+}
+.container{
+    margin: auto;
+    width: 200px;
+    cursor: pointer;
+}
+ .input input{
+    /* margin: auto; */
+    margin-left: 450px;
+    margin-bottom: 10px;
+    padding: 2px;
+    width: 220px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+
+}
+.flex{
+    display: flex;
+}
